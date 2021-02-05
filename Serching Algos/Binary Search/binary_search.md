@@ -32,7 +32,7 @@ Space-Time Complexity of Binary Search.
 
 1). Iterative Method #links to be added 
 
-2). Recursive Method #links to be added 
+2). Recursive Method [recursive implementation of binary search](https://github.com/noviicee/Search_and_Sort/blob/main/Serching%20Algos/Binary%20Search/binary_search_recursive.py) 
 
 
 Therefore, the Auxilliary Space-Complexity of the Binary-Search can be given as-
