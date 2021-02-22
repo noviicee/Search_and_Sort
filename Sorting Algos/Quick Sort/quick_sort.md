@@ -4,7 +4,7 @@ Quick Sort
 
 The quick sort is a sorting technique and is often used, right alongside Merge Sort.
 
-[**The basic version of the algorithm**](https://github.com/noviicee/Search_and_Sort/blob/extrabranch/Sorting%20Algos/Quick%20Sort/quick_sort_basic.py) does the following:
+[**The basic version of the algorithm**](https://github.com/noviicee/Search_and_Sort/blob/main/Sorting%20Algos/Quick%20Sort/quick_sort_basic.py) does the following:
 
 ->Divide the collection in two (roughly) equal parts by taking a pseudo-random element and using it as a pivot.
 
@@ -22,7 +22,7 @@ The problem with this basic approach is that we atually don't know how many time
 To mention the estimates more clearly-
 
 
-If time-complexity of quick_sort_basic [code](https://github.com/noviicee/Search_and_Sort/blob/extrabranch/Sorting%20Algos/Quick%20Sort/quick_sort_basic.py) is taken as T(n), then-
+If time-complexity of quick_sort_basic [code](https://github.com/noviicee/Search_and_Sort/blob/main/Sorting%20Algos/Quick%20Sort/quick_sort_basic.py) is taken as T(n), then-
 
 n(log(n))<=T(n)<=n^2
 
