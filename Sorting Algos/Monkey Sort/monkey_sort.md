@@ -28,4 +28,4 @@ Best complexity: n
 
 Space complexity: 1
 
-But it indeed exists, and so I think it can be demonstrated in the sorting algorithms just for some fun!
+But it indeed exists, and so I think it can be demonstrated along with the other sorting algorithms just for some fun!
