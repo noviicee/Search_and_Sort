@@ -2,8 +2,8 @@
 
 #For implementing the Monkey Sort Algorithm, we need to import a built-in module named as 'random' in Python.
 
-#A demonstration on how the random module will be used in Monkey Sort. #random_demo.py
-#links to be added
+#A demonstration on how the random module will be used in Monkey Sort.
+#random_demo.py->link: https://github.com/noviicee/Search_and_Sort/blob/main/Sorting%20Algos/Monkey%20Sort/random_demo.py
 
 #The monkey sort works somewhat like what an actual monkey would do if it is asked to sort a given set of (let's say) cards.
 
@@ -23,7 +23,8 @@ def monkey_sort(arr):
 monkey_sort([1,2,8,3])
 
 #Result-
-""">monkey_sort.py
+"""
+>>> monkey_sort.py
 You can see these are the unordered lists that we get just by trying to sort it's elements by shuffling them
 [2, 8, 3, 1]
 You can see these are the unordered lists that we get just by trying to sort it's elements by shuffling them
@@ -60,13 +61,13 @@ You can see these are the unordered lists that we get just by trying to sort it'
 The final sorted list:
 [1, 2, 3, 8]
 
->"""
+"""
 
 #Just in case you are not able to visualize it fully-
 
 
 import time
-#just for a better visulaization of the execution
+"""just for a better visulaization of the execution"""
 def is_sorted(data) -> bool:
     """Determine whether the data is sorted."""
     return all(data[i] <= data[i + 1] for i in range(len(data) - 1))
@@ -86,7 +87,8 @@ def monkey_sort(arr):
 monkey_sort([1,2,8,3])
 
 #Results-
-""">monkey_sort.py
+"""
+>>> monkey_sort.py
 You can see these are the unordered lists that we get just by trying to sort it's elements by shuffling them
 [2, 1, 3, 8]
 You can see these are the unordered lists that we get just by trying to sort it's elements by shuffling them
@@ -147,7 +149,7 @@ You can see these are the unordered lists that we get just by trying to sort it'
 The final sorted list (after 28 rounds of shuffling):
 [1, 2, 3, 8]
 
->
+
 """
 
 """Just to mention that the '28 rounds' is really optional. The algorithm may take even less than that or even far more from that"""
