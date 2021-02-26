@@ -3,7 +3,7 @@
 #For implementing the Monkey Sort Algorithm, we need to import a built-in module named as 'random' in Python.
 
 #A demonstration on how the random module will be used in Monkey Sort.
-#random_demo.py->link: https://github.com/noviicee/Search_and_Sort/blob/main/Sorting%20Algos/Monkey%20Sort/random_demo.py
+#random_demo.py->follow: https://github.com/noviicee/Search_and_Sort/blob/main/Sorting%20Algos/Monkey%20Sort/random_demo.py
 
 #The monkey sort works somewhat like what an actual monkey would do if it is asked to sort a given set of (let's say) cards.
 
