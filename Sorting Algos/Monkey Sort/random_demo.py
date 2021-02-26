@@ -21,10 +21,4 @@ print(a)
 
 """
 
-if __name__ == "__main__":
-
-    import doctest
-
-    doctest.testmod()
-
 #Everytime, it gives rise to a new list containing shuffled items from the given list.
